@@ -10,7 +10,6 @@ function App() {
         <p>
           Assalam 0 Alikum Bootcamp Trainers :)
         </p>
-        <span>May you Live Long</span>
       </header>
     </div>
   );
